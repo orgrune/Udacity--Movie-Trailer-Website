@@ -1,11 +1,10 @@
-#Project Submission
+#Movie Trailer Website Project
 ##By Or Grunebaum
-### Due May 14
 
 ##Project Description
-The following project hadus design a small movie trailer website showing our favorite movies.
-In this project we created code to store a list of movie titles, poster images, and movie trailers.
-This was then displayed within a webbrowser. Tjhe main code for the site was provided by udacity.
+The following project was to design a small movie trailer website showing some of my favorite movies.
+In this project I created code to store a list of movie titles, poster images, and movie trailers.
+This was then displayed within a webbrowser. The main code for the site was provided by udacity.
 
 The movie information is provided by The Movie Database [theMovieDB](https://themoviedb.org)
 
@@ -17,10 +16,9 @@ The link below is where I had gotten the code.
   
 [PyTMDB3](https://github.com/apelly/pytmdb3)
 
-I had also attached a zipped version in my submission.
+I had also attached a zipped version of his library.
 
-To use the code I also had to request an API key for the theMovieDB website. I have included my version of
-the api key in my main file **entertainment_center.py**.
+To use the code I also had to request an API key for the theMovieDB website. 
 
 ##Running the software
 To run the website open **entertainment_center.py** and press Run/Run module.
